@@ -8,6 +8,6 @@ public class HappyController {
 
 	@GetMapping("/hello")
 	public String greetings() {
-		return "Hello World!";
+		return "Hello World new trigger!";
 	}
 }
