@@ -8,6 +8,6 @@ public class HappyController {
 
 	@GetMapping("/hello")
 	public String greetings() {
-		return "Hello World new trigger Docker build rebuild Done!";
+		return "Hello World new trigger Docker build rebuild Done now chnaged!";
 	}
 }
